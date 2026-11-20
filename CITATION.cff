@@ -1,9 +1,37 @@
-title: "Figure code for: Evaluating Mesoscale Eddies in Global Ocean Forecasts using Gridded Altimetry and SWOT Observations"
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: >-
+  Figure code for: Evaluating Mesoscale Eddies in Global Ocean Forecasts
+  using Gridded Altimetry and SWOT Observations
+abstract: >-
+  Notebooks that reproduce the figures of the paper from the archived data
+  deposit. They read only the NetCDF files in that deposit.
+type: software
 authors:
   - family-names: Tchonang
     given-names: Babette C.
     affiliation: "Florida State University"
+    orcid: "https://orcid.org/0009-0008-6293-231X"
 version: 1.0.0
 date-released: 2026-11-20
 license: CC0-1.0
 repository-code: "https://github.com/babettetchonang/eddy-forecast-evaluation-figures"
+keywords:
+  - ocean forecasting
+  - mesoscale eddies
+  - satellite altimetry
+  - SWOT
+
+# Once the data deposit has its DOI, uncomment this and fill it in, so the
+# code points at the data it reads. Keep the DOI bare: 10.5281/zenodo.NNNNNNN
+# references:
+#   - type: data
+#     title: >-
+#       Data for: Evaluating Mesoscale Eddies in Global Ocean Forecasts
+#       using Gridded Altimetry and SWOT Observations
+#     authors:
+#       - family-names: Tchonang
+#         given-names: Babette C.
+#         orcid: "https://orcid.org/0009-0008-6293-231X"
+#     doi: "10.5281/zenodo.NNNNNNN"
+#     year: 2026
