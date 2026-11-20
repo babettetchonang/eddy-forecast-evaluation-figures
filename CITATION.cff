@@ -1,0 +1,9 @@
+title: "Figure code for: Evaluating Mesoscale Eddies in Global Ocean Forecasts using Gridded Altimetry and SWOT Observations"
+authors:
+  - family-names: Tchonang
+    given-names: Babette C.
+    affiliation: "Florida State University"
+version: 1.0.0
+date-released: 2026-11-20
+license: CC0-1.0
+repository-code: "https://github.com/babettetchonang/eddy-forecast-evaluation-figures"

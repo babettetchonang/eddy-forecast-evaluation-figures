@@ -1,0 +1,11 @@
+# Figures the notebooks write
+figures/
+
+# The data deposit: these are archived separately and cited by DOI.
+# Keeping them out of the repository avoids duplicating ~95 MB into every
+# Zenodo snapshot, and keeps the code repository small enough to clone.
+*.nc
+
+# Notebook state
+.ipynb_checkpoints/
+__pycache__/
